@@ -1,23 +1,9 @@
-{
-  "contact": {
+[{
+ 
     "firstName": "Sariah",
     "lastName": "Tanner",
     "email": "sariahtanner@gmail.com",
     "favoriteColor": "Green",
     "birthday": "02/20/1984"
-  },
-  "contact2": {
-    "firstName": "Garrik",
-    "lastName": "Tanner",
-    "email": "gliphter@gmail.com",
-    "favoriteColor": "Black",
-    "birthday": "07/07/1984"
-  },
-  "contact3": {
-    "firstName": "Alexander",
-    "lastName": "Tanner",
-    "email": "alexandertanner@gmail.com",
-    "favoriteColor": "Blue",
-    "birthday": "12/26/2015"
-  }
-}
+  
+}]
