@@ -14,6 +14,7 @@
     "favoriteColor": "black",
     "birthday": "07/07/1984"
 
+<<<<<<< HEAD
 },
 
 {   
@@ -22,5 +23,7 @@
     "email": "alexandertanner@gmail.com",
     "favoriteColor": "Purple",
     "birthday": "12/26/2015"
+=======
+>>>>>>> 245a83c858a966180d4b704e4c1ef50d01aa39c4
 }]
 
