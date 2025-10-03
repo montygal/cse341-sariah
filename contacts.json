@@ -6,4 +6,21 @@
     "favoriteColor": "Green",
     "birthday": "02/20/1984"
   
+},
+
+{   "firstName": "Garrik",
+    "lastName": "Tanner",
+    "email": "gliphter@gmail.com",
+    "favoriteColor": "black",
+    "birthday": "07/07/1984"
+
+},
+
+{   
+    "firstName": "Alexander",
+    "lastName": "Tanner",
+    "email": "alexandertanner@gmail.com",
+    "favoriteColor": "Purple",
+    "birthday": "12/26/2015"
 }]
+
