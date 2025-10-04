@@ -21,10 +21,10 @@ PUT http://localhost:8080/contacts/68d814ba00e1be13347447c0 HTTP/1.1
 content-type: application/json
 
 {
-"firstName":"Sariah", "lastName":"Tanner", "email":"sebastiantanner@gmail.com", 
+"firstName":"Amy", "lastName":"Tanner", "email":"sebastiantanner@gmail.com", 
 "favoriteColor":"Pink", "birthday":"01/19/2018"
 }
 
 
 ### DELETE contact 
-DELETE http://localhost:8080/contacts/68dfdaf4ff38a1ea47d79b80 HTTP/1.1
+DELETE http://localhost:8080/contacts/68e19ddabf1c2dcecb24e245 HTTP/1.1
